@@ -1,4 +1,4 @@
-How To Create A Simple Template website by HTML5 and CSS boostrap
+How To Create A Simple Template website by HTML5 and CSS bootstrap
 ===
 
 
