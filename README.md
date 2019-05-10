@@ -7,7 +7,7 @@ DEMO TEMPLATE
 ---
 
 
-![alt text](https://github.com/akkaoui-abdou/Example-AngularJS-CRUD/blob/master/img/template.png)
+![alt text](https://github.com/akkaoui-abdou/template-website-HTM5-bootstrap/blob/master/images/template.png)
 
 
 SECTION nav-bar
